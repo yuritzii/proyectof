@@ -1,0 +1,42 @@
+
+table
+{
+background:#B2FFFF;
+border-collapse:collapse; 
+border-spacing:10px;
+
+}
+table td:hover
+{
+background-color: #92c5fc;
+cursor: pointer
+}
+table th
+{
+color:#000080;
+padding: 10px;
+
+}
+table tr
+{
+font:120% sans-serif
+}
+img 
+{
+ width:210px; 
+ height:auto; 
+ border-radius:10%;
+ box-shadow:0px 0px 0px ;
+}
+footer{
+font-family:"arial";
+position: relative;
+margin-top: -5px;
+width: 100%;
+padding:10px;
+clear: both;
+background:#ADD8E6;
+text-align: center;
+color:#000000;
+}
+
